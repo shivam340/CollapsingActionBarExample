@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">CollapsingActionBar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <array name="drawer_menu_list">
+        <item>CLUB NETSURF</item>
+        <item>CYCLE COMPARISON</item>
+        <item>MY REGION</item>
+        <item>ADD NEW DISTRIBUTOR</item>
+        <item>SHOP ONLINE</item>
+        <item>BUSINESS ANALYTICS</item>
+        <item>MY ACCOUNT</item>
+        <item>ACTION REPORTS</item>
+        <item>PROSPECTOR</item>
+        <item>NEWS FEED</item>
+        <item>MEDIA LIBRARY</item>
+        <item>HELP</item>
+        <item>SETTINGS</item>
+        <item>Logout</item>
+
+        <item>CLUB NETSURF</item>
+        <item>CYCLE COMPARISON</item>
+        <item>MY REGION</item>
+        <item>ADD NEW DISTRIBUTOR</item>
+        <item>SHOP ONLINE</item>
+        <item>BUSINESS ANALYTICS</item>
+        <item>MY ACCOUNT</item>
+        <item>ACTION REPORTS</item>
+        <item>PROSPECTOR</item>
+        <item>NEWS FEED</item>
+        <item>MEDIA LIBRARY</item>
+        <item>HELP</item>
+        <item>SETTINGS</item>
+        <item>Logout</item>
+
+        <item>CLUB NETSURF</item>
+        <item>CYCLE COMPARISON</item>
+        <item>MY REGION</item>
+        <item>ADD NEW DISTRIBUTOR</item>
+        <item>SHOP ONLINE</item>
+        <item>BUSINESS ANALYTICS</item>
+        <item>MY ACCOUNT</item>
+        <item>ACTION REPORTS</item>
+        <item>PROSPECTOR</item>
+        <item>NEWS FEED</item>
+        <item>MEDIA LIBRARY</item>
+        <item>HELP</item>
+        <item>SETTINGS</item>
+        <item>Logout</item>
+
+
+    </array>
+
+
+    <string name="cheese_ipsum">Jarlsberg lancashire edam. Dolcelatte hard cheese brie st. agur blue
+    cheese caerphilly bavarian bergkase cheese and biscuits mascarpone. Cheeseburger swiss bavarian
+    bergkase cream cheese fromage frais cheesy feet port-salut airedale. St. agur blue cheese rubber
+    cheese caerphilly cheddar cheesecake cream cheese manchego lancashire. Roquefort squirty cheese
+    the big cheese.</string>
+    <string name="checkin">Checkin</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
